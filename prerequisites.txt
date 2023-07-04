@@ -1,0 +1,5 @@
+AWS Account
+programmatic access and AWS configure with CLI
+Python3 Installed
+Docker and Kubectl installed
+Code editor (Vscode)
